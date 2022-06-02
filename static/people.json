@@ -1,0 +1,13 @@
+{
+    "faculty": [{
+        "name": "Dr. Mara Helmuth",
+        "bio": "Teaches at CCM",
+        "links": ["www.google.com"]
+    }],
+    
+    "assistants": ["Grace Choi", "Kieran McAuliffe"],
+    
+    "members": ["Carl Jacobsen", "Andy McFarlane", "Wenbin Lyu"],
+    
+    "alumni": ["Yunze Mu"]
+}
